@@ -1,0 +1,47 @@
+/*
+	posta
+    complementa la plantilla simple para personalizarla
+*/
+
+
+body {
+  color:#000; 
+  font-size:100%; 
+  line-height:1.6;
+  } 
+
+.site-header {
+    background: url(../assets/orangine.svg);
+    background-size: cover;
+    margin-bottom:10px;
+}
+
+.site-bio {
+     font-weight: 300;
+     letter-spacing: 2px;
+     color: #fff !important;
+}
+
+.site-avatar img{
+	 border: 2px #fff solid;
+}
+
+.site-title h1{
+    letter-spacing:3px;
+}
+
+.site-title a {
+   color: #000;
+}
+
+hr {
+    border: none; 
+    margin:0.5em 0 0.5em;
+    font-size:200%;
+    color: #000; 
+    height: 1em;
+}
+
+hr:after {
+    content: "❧";
+    }
