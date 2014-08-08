@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="es">
+<!-- Made with HTML5, CSS3, and jQuery by Jesse Herrick -->
+
+<head>
+	<title>Quoting Diogenes Laercio</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<link href="/css/banner.css" rel="stylesheet">
+	<link href="/css/main.css" rel="stylesheet">
+    <link href="/css/animate.css" rel="stylesheet">
+    <link href="/css/fluidbox_fork.css" rel="stylesheet">
+	<script>
+	$(document).ready(function($) {
+    	$.get('quotes.txt', function(data) {
+        	var quotes = data.split("\;");
+        	var id = Math.floor(quotes.length * Math.random());
+        	$('h5').html(quotes[id]);
+    	});
+	});
+	</script>
+</head>
+
+<body >
+ <header>
+      <h1>
+        <a href="/">Fernando Mayorga</a>
+        <span class="head_logo wow fadeInDown">
+          <a href="/" title="perrito nahua">
+            <img src="/assets/doggy.png" alt="Logo del sitio">
+          </a>
+        </span>
+      </h1>
+      <h2>Visita el microblog de Fernando, o sus recortes en evernote</h2> 
+      <nav role="navigation">
+      <ul>
+      	<li class="evernote"><a class="evernote" href="https://www.evernote.com/pub/fernandomayorga/ars">EVERNOTE</a></li>
+      	<li><a class="scriptorium" href="http://blog.fernandomayorga.me">MICROBLOG</a></li>
+      </ul>
+      </nav>   
+ </header>
+
+   <section class="banner clearfix">
+    <a class="quotes" href="javascript:history.go(0)"> <h5> </h5></a>
+    <div class="by">—Diógenes Laercio, refiriéndose a una anécdota de Diógenes "El perro".<hr style="border: 1px #40485b dashed;" />¿Quieres más ...? Haz click en la cita.</div>
+  </section>
+  <div class="wrapper">
+<article >
+  <h2>Diógenes de Sínope &laquo;el perro&raquo;</h2>
+  <small>Transcrito de "Biblioteca de clásicos para uso de modernos" por Luis Antonio de Villena (2008)</small>
+  <p>Diógenes (hacia 400 - 325 a.C.) llegó joven a Atenas en busca de la filosofía y se encontró y sintió atraído por las enseñanzas de Antístenes, que había sido discípulo de Sócrates, pero que nada tenía que ver con Platón o Aristóteles los seguidores oficiales del maestro... Diógenes fue un personaje tan singular y encarnó en tal manera el modo -directo y vital- de entender esa filosofía práctica que predicaba Antístenes que lo apodaron <code>&laquo;kúov&raquo;</code> (el perro), de donde tomó su nombre la &laquo;escuela cínica&raquo; ...</p>
+  <p>El objetivo de esta filosofía, nada especulativa sino al contrario eminentemente práctica, y tendente a conseguir la felicidad y tranquilidad del individuo, se operaba considerando que uno debe prescindir al máximo de las necesidades externas (no codiciar ni poseer riquezas) y siendo virtuoso, es decir, sin hacer daño y guiándose por un razonable libre albedrío. Para ello debía el filósofo someterse a una autodisciplina física y mental y además perder el miedo al ridículo, es decir, al qué dirán de los otros ... Coincidente, en parte, con los estoicos y en parte con los llamados gymnosofistas orientales (como los yoghis hindúes, que andan por los caminos casi desnudos, ajenos a todo y sin apenas necesidades), ese camino fue el seguido de manera más radical por Diógenes, y menos por Antístenes o Crates, los otros dos filósofos de la escuela, aunque de ninguno de los tres nos ha llegado prácticamente obra escrita, si bien sabemos que a Antístenes le interesaban la literatura y la dialéctica. Por el contrario, las biografías de Diógenes de Sínope (y en especial la que le dedicara Diógenes Laercio en sus <em>Vidas y opiniones de los filósofos ilustres,</em> obra del siglo III de nuestra era) son un hervidero, a menudo hilarante, de dichos, acciones y ocurrencias ....</p>
+
+</article>
+<div class="fleuron">&#10086;</div>
+
+<section class="fluido">
+				<div class="gallery">
+				<a href="/assets/diogenes.jpg" title="" data-fluidbox class="col-1"><img src="/assets/diogenes.jpg" alt="" title="" /></a>
+				<figcaption>Diógenes de Sínope <br/>Detalle del fresco "La Escuela de Atenas" de Rafael.</figcaption>
+				</div>
+</section>
+
+    </div>
+  <footer id="footer">
+      <div class="wrapper">
+        <figure class="wow pulse" data-wow-iteration="infinite" data-wow-duration="2000ms"><img src="/assets/nu_ava.png" alt="Gravatar for Fernando Mayorga" class="gravatar"></figure>
+        <article>
+          
+          <p>Fernando Mayorga es profesor universitario amigo de la Historia del Arte y el Patrimonio Cultural ecuatoriano.</p>
+          
+             <div >
+                <p>
+                    <a class="twitter-share-button"
+                       href="https://twitter.com/share"
+                       data-count="none"
+                       data-lang="en"
+                       data-via="fernanz"
+                       data-size="large"
+                       data-text="Un poco de filosofía para hoy ..."
+                       data-url="http://fernandomayorga.ec/diogenes.html">Tweet</a>
+                   &nbsp;
+                   <a class="twitter-follow-button"
+                      href="https://twitter.com/fernanz"
+                      data-show-count="false"
+                      data-lang="en"
+                      data-size="large">Follow @Fernanz</a>
+                </p>
+                &copy; 2014
+            </div>
+          
+        </article>
+      </div>
+    </footer>
+    <script src="/js/wow.min.js"></script>
+		
+		<script>
+		wow = new WOW(
+			{
+				animateClass: 'animated',
+				offset:			100
+			}
+		)
+		wow.init()	
+		</script>
+        <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="/js/plugins.js"></script>
+        <script src="/js/main.js"></script>
+        <script type="text/javascript" src="/js/jquery.fluidbox_fork.js"></script>
+		<script>
+			$(function () {
+				// You can use any kind of selectors for jQuery Fluidbox
+				$('.fluido a').fluidbox();
+
+				// Load an image dynamically
+				$('a[data-func="loadImg"]').on('click', function(e) {
+					e.preventDefault();
+
+					// Construct new content
+					$newContent = $('<p>This paragraph and its accompanying image are dynamically-added.</p><a href="/assets/Greenriver.jpg" title="" data-fluidbox><img src="/assets/Greenriver.jpg" alt="" title="" /></a>');
+
+					// Append new content to immediate sibling, <article>
+					// Then search for the anchor we want fluidbox to work on, apply method .fluidobx()
+					$(this)
+						.next('article')
+						.append($newContent)
+						.find('a[data-fluidbox]')
+							.fluidbox();
+
+					// Prevent repeated appending of content, just because it's gonna be silly
+					$(this).off('click').on('click', function(e) {
+						e.preventDefault();
+					});
+				});
+
+				// Smooth scrolling plugin by Chris Coiyer - not needed for Fluidbox functionality
+				// Source: http://css-tricks.com/snippets/jquery/smooth-scrolling/
+				$('a[href*=#]:not([href=#])').click(function() {
+					if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+						var target = $(this.hash);
+						target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+						if (target.length) {
+							$('html,body').animate({
+								scrollTop: target.offset().top
+							}, 1000);
+							return false;
+						}
+					}
+				});
+			});
+		</script>
+
+    <script>
+            // Twitter widgets
+            !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='http://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');
+            
+            // Google Analytics
+        var _gaq=[['_setAccount','UA-43461974-1'],['_trackPageview']];
+        (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+        g.src='//www.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g,s)}(document,'script'));
+    </script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+ <footer id="footer">
+      <div class="wrapper">
+        <figure class="wow pulse" data-wow-iteration="infinite" data-wow-duration="2000ms"><img src="/assets/nu_ava.png" alt="Gravatar for Fernando Mayorga" class="gravatar"></figure>
+        <article>
+          
+          <p>Fernando Mayorga es profesor universitario amigo de la Historia del Arte y el Patrimonio Cultural ecuatoriano.</p>
+          
+             <div >
+                <p>
+                    <a class="twitter-share-button"
+                       href="https://twitter.com/share"
+                       data-count="none"
+                       data-lang="en"
+                       data-via="fernanz"
+                       data-size="large"
+                       data-text="Reset"
+                       data-url="http://fernandomayorga.ec">Tweet</a>
+                   &nbsp;
+                   <a class="twitter-follow-button"
+                      href="https://twitter.com/fernanz"
+                      data-show-count="false"
+                      data-lang="en"
+                      data-size="large">Follow @Fernanz</a>
+                </p>
+                &copy; 2014
+            </div>
+          
+        </article>
+      </div>
+    </footer>
+    <script src="/js/wow.min.js"></script>
+		
+		<script>
+		wow = new WOW(
+			{
+				animateClass: 'animated',
+				offset:			100
+			}
+		)
+		wow.init()	
+		</script>
+        <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="/js/plugins.js"></script>
+        <script src="/js/main.js"></script>
+        <script type="text/javascript" src="/js/jquery.fluidbox_fork.js"></script>
+		<script>
+			$(function () {
+				// You can use any kind of selectors for jQuery Fluidbox
+				$('.fluido a').fluidbox();
+
+				// Load an image dynamically
+				$('a[data-func="loadImg"]').on('click', function(e) {
+					e.preventDefault();
+
+					// Construct new content
+					$newContent = $('<p>This paragraph and its accompanying image are dynamically-added.</p><a href="/assets/Greenriver.jpg" title="" data-fluidbox><img src="/assets/Greenriver.jpg" alt="" title="" /></a>');
+
+					// Append new content to immediate sibling, <article>
+					// Then search for the anchor we want fluidbox to work on, apply method .fluidobx()
+					$(this)
+						.next('article')
+						.append($newContent)
+						.find('a[data-fluidbox]')
+							.fluidbox();
+
+					// Prevent repeated appending of content, just because it's gonna be silly
+					$(this).off('click').on('click', function(e) {
+						e.preventDefault();
+					});
+				});
+
+				// Smooth scrolling plugin by Chris Coiyer - not needed for Fluidbox functionality
+				// Source: http://css-tricks.com/snippets/jquery/smooth-scrolling/
+				$('a[href*=#]:not([href=#])').click(function() {
+					if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+						var target = $(this.hash);
+						target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+						if (target.length) {
+							$('html,body').animate({
+								scrollTop: target.offset().top
+							}, 1000);
+							return false;
+						}
+					}
+				});
+			});
+		</script>
+
+    <script>
+            // Twitter widgets
+            !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='http://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');
+            
+            // Google Analytics
+        var _gaq=[['_setAccount','UA-43461974-1'],['_trackPageview']];
+        (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+        g.src='//www.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g,s)}(document,'script'));
+    </script>

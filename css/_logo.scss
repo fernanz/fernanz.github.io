@@ -1,0 +1,36 @@
+// <span>
+.head_logo {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 2;
+  
+  img {
+    height: prem(250px);
+    left: 50%;
+    margin-left: prem(-114px);
+    position: absolute;
+    top: prem(230px);
+    width: prem(227px);
+    
+    @media only screen and (min-width: $break-medium) {
+      top: prem(94px);
+    }
+    
+    @media only screen and (min-width: $break-large) {
+      left: prem(65px);
+      margin-left: 0;
+      top: prem(94px);
+    }
+  }
+  
+  img:hover {
+	  -webkit-filter:  contrast(10);
+	  -moz-filter:  contrast(10);
+	  filter: contrast(10);
+	  -webkit-transition: all 0.3s ease-in-out;
+	  -moz-transition: all 0.3s ease-in-out;
+	  transition: all 0.3s ease-in-out;
+  }
+}

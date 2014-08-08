@@ -1,0 +1,6 @@
+name: Fernando Mayorga
+markdown: redcarpet
+highlighter: pygments
+exclude: [main.scss, config.rb]
+description: Personal website de Fernando Mayorga sobre Arte, Historia y Patrimonio
+url: http://fernandomayorga.ec/

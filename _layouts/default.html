@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, user-scalable=yes">
+    <title>{{ page.title }}</title>
+    {% if page.description %}<meta name="description" content="{{page.description}}">{% endif %}
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="stylesheet" type="text/css" href="/css/animate.css">
+    <link rel="stylesheet" type="text/css" href="/css/banner.css">
+    <link rel="stylesheet" type="text/css" href="css/slider_ad.css" />
+    <link rel="stylesheet" type="text/css" href="css/fluidbox_fork.css" />
+    <link rel="author" href="https://plus.google.com/109413415275677189409">
+    <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
+    <script>
+    WebFont.load({
+        google: {
+            families: ['Raleway:100,200,300,400', 'Volkorn']
+        }
+    });
+    </script>
+  </head>
+  <body>
+      {% include header.html %}   
+    <div class="wrapper">
+      {{ content }}
+    </div>
+    {% include aside.html %}
+    
+    <section class="bannerB clearfix">
+        <h1>Something else...</h1>
+        <div class="flu">
+        <div>
+        	<h1 class="button">
+        	<a href="diogenes.html">Citando a Diógenes</a></h1>
+        </div>	
+        <div>
+        	<h1 class="button">
+        	<a href="keller.html">Mi historia H. K.</a></h1>
+        </div>
+        <div>
+        	<h1 class="button">
+        	<a href="1982.html">1982</a></h1>
+        </div>	
+        </div>
+    </section>
+
+    {% include footer.html %}
+  </body>
+</html>

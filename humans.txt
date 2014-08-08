@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Fernando Mayorga -- Diseñador, escritor y profesor -- http://fernandomayorga.ec
+
+# THANKS
+
+    Fork de Paddy O'Hanlon
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
