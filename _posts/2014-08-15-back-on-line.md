@@ -11,7 +11,7 @@ Agosto ya llegó y con él el término de mi contrato de hosting con **EcuaHosti
 
 Estuve buscando otras opciones para el hosting de mi sitio, y **Digital Ocean** me parecía la más conveniente, sin embargo al tener una cuenta con **GitHub** me incliné por **GitHub Pages**, por tres razones:
 
-<u>Primera</u>, todo usuario de [GitHub](http://github.com) (aunque tenga una cuenta gratuita con ellos) puede hospedar un sitio personal, también gratuito, con ellos, y; <u>segunda</u> ... GitHub Pages también genera el sitio con Jekyll, es decir que no necesariamente tengo que generar el sitio en mi [computadora][uno], sólo necesito crear un repositorio destinado para el sitio.  
+<u>Primera</u>, todo usuario de [GitHub](http://github.com) (aunque tenga una cuenta gratuita con ellos) puede hospedar un sitio personal, también gratuito, con ellos, y; <u>segunda</u> ... GitHub Pages también genera el sitio con Jekyll, es decir que no necesariamente tengo que generar el sitio en mi computadora(*), sólo necesito crear un repositorio destinado para el sitio.  
 
 <br />
 <section class="fluido">
@@ -20,11 +20,10 @@ Estuve buscando otras opciones para el hosting de mi sitio, y **Digital Ocean** 
 				</div>
 </section>
 
-La <u>tercera</u> razón es que me permite usar el dominio de mi preferencia: Por defecto GitHub Pages utiliza primero el nombre del Usuario en su URL y luego el del sitio, por ejemplo el nombre de mi usuario es Fernanz, entonces el URL sería http://fernanz.github.io; decidí personalizar mi dominio y compré en línea el dominio http://fernandomayorga.me con [Hover](http://hover.com) por un módico valor anual de USD 12.99.
+La <u>tercera</u> razón es que me permite usar el dominio de mi preferencia: Por defecto GitHub Pages utiliza primero el nombre del Usuario en su URL y luego el del sitio, por ejemplo el nombre de mi usuario es @fernanz, entonces el URL sería http://fernanz.github.io; decidí personalizar mi dominio y compré en línea el dominio http://fernandomayorga.me con [Hover](http://hover.com) por un módico valor anual de USD 12.99.
 
-En conclusión, ya no estoy pagando por el servicio de hosting y también estoy ahorrando con un dominio más económico (antes sólo por el dominio **fernandomayorga.ec** pagaba USD 43.68)
+En conclusión, ya no estoy pagando por el servicio de hosting y también estoy ahorrando con un dominio más económico (antes sólo por el dominio **fernandomayorga.ec** pagaba USD 43.68).
 
-[uno]:
-Aunque es recomendable para pruebas con el servidor local http://127.0.0.1:4000 que por defecto crea Jekyll.  
+*Aunque es recomendable para pruebas con el servidor local http://127.0.0.1:4000 que por defecto crea Jekyll.  
 
 **Hasta pronto**
