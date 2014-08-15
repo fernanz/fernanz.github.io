@@ -11,7 +11,7 @@ Agosto ya llegó y con él el término de mi contrato de hosting con **EcuaHosti
 
 Estuve buscando otras opciones para el hosting de mi sitio, y **Digital Ocean** me parecía la más conveniente, sin embargo al tener una cuenta con **GitHub** me incliné por **GitHub Pages**, por tres razones:
 
-<u>Primera</u>, todo usuario de [GitHub](http://github.com) (aunque tenga una cuenta gratuita con ellos) puede hospedar un sitio personal, también gratuito, con ellos, y; <u>segunda</u> ... GitHub Pages también genera el sitio con Jekyll, es decir que no necesariamente tengo que generar el sitio en mi computadora(*), sólo necesito crear un repositorio destinado para el sitio.  
+<u>Primera</u>, todo usuario de [GitHub](http://github.com) (aunque tenga una cuenta gratuita con ellos) puede hospedar un sitio personal, también gratuito, con ellos, y; <u>segunda</u> ... GitHub Pages también genera el sitio con Jekyll, es decir que no necesariamente tengo que generar el sitio en mi computadora*, sólo necesito crear un repositorio destinado para el sitio.  
 
 <br />
 <section class="fluido">
@@ -24,6 +24,7 @@ La <u>tercera</u> razón es que me permite usar el dominio de mi preferencia: Po
 
 En conclusión, ya no estoy pagando por el servicio de hosting y también estoy ahorrando con un dominio más económico (antes sólo por el dominio **fernandomayorga.ec** pagaba USD 43.68).
 
-*Aunque es recomendable para pruebas con el servidor local http://127.0.0.1:4000 que por defecto crea Jekyll.  
+<br />
+*<small>Aunque es recomendable para pruebas con el servidor local http://127.0.0.1:4000 que por defecto crea Jekyll.</small>  
 
 **Hasta pronto**
