@@ -24,7 +24,7 @@ La <u>tercera</u> razón es que me permite usar el dominio de mi preferencia: Po
 
 En conclusión, ya no estoy pagando por el servicio de hosting y también estoy ahorrando con un dominio más económico (antes sólo por el dominio **fernandomayorga.ec** pagaba USD 43.68).
 
-<br />
-*<small>Aunque es recomendable para pruebas con el servidor local http://127.0.0.1:4000 que por defecto crea Jekyll.</small>  
+
+<small>* Aunque es recomendable para pruebas con el servidor local http://127.0.0.1:4000 que por defecto crea Jekyll.</small>  
 
 **Hasta pronto**
