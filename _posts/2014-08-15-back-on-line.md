@@ -2,7 +2,7 @@
 layout: post
 title:  "Back on line"
 description: Apuntes sobre la migración de host para mi sitio web
-date:   2014-08-07 15:40:00
+date:   2014-08-15 15:40:00
 categories: notas
 location: Guayaquil, desde mi escritorio.
 ---
@@ -13,6 +13,7 @@ Estuve buscando otras opciones para el hosting de mi sitio, y **Digital Ocean** 
 
 <u>Primera</u>, todo usuario de [GitHub](http://github.com) (aunque tenga una cuenta gratuita con ellos) puede hospedar un sitio personal, también gratuito, con ellos, y; <u>segunda</u> ... GitHub Pages también genera el sitio con Jekyll, es decir que no necesariamente tengo que generar el sitio en mi [computadora][uno], sólo necesito crear un repositorio destinado para el sitio.  
 
+<br />
 <section class="fluido">
 				<div class="gallery">
 				<a href="/assets/GHP.png" title="" data-fluidbox class="col-1"><img src="/assets/GHP.png" alt="" title="" /></a>
@@ -23,6 +24,7 @@ La <u>tercera</u> razón es que me permite usar el dominio de mi preferencia: Po
 
 En conclusión, ya no estoy pagando por el servicio de hosting y también estoy ahorrando con un dominio más económico (antes sólo por el dominio **fernandomayorga.ec** pagaba USD 43.68)
 
-[uno]:Aunque es recomendable para pruebas con el servidor local http://127.0.0.1:4000 que por defecto crea Jekyll.  
+[uno]:
+Aunque es recomendable para pruebas con el servidor local http://127.0.0.1:4000 que por defecto crea Jekyll.  
 
 **Hasta pronto**
