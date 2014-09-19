@@ -1,7 +1,7 @@
 .typoo {padding: 60px 0 120px 0; color: #333; }
 .typoo h2 { font: 34px/30px 'Vast Shadow', 'Arial Black'; color: #5e687d; width: 620px; margin: 0 auto; text-transform: uppercase; text-align: center; padding: 14px 0 13px 0; border-top: 1px solid #c8c8c8; border-bottom: 1px solid #c8c8c8; }
 .typoo h2 span { font: 300 16px 'Oswald', Helvetica, Arial; margin: 0 5px 0 3px; color: #aaa; letter-spacing: .05em; }
-.typoo p { width: 620px; color: #40485b; margin: 0 auto; }
+.typoo p { width: 620px; color: #40485b; margin: 0 auto; text-align: center; }
 .typoo .black-ital { font: italic 900 130px/90px 'Playfair Display', Georgia, serif; margin-bottom: 12px; display: block; }
 .typoo .ital { font: italic 400 60px/60px 'Playfair Display', Georgia, serif; margin: 0 0 8px 6px; display: block; }
 .typoo .small-cap { font: 400 18px/36px 'Playfair Display SC', Georgia, serif; letter-spacing: .17em; margin: 0 0 0 12px; text-transform: uppercase; display: block; }
