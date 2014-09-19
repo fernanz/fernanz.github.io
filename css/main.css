@@ -402,7 +402,7 @@ a.return-to-text, a:link.return-to-text, a:visited.return-to-text {
 
 body {
   color: #000;
-  font-size: .80em;
+  font-size: 1em;
   -webkit-font-feature-settings: "liga","dlig";
   -moz-font-feature-settings: "liga=1, dlig=1";
   -moz-font-feature-settings: "liga","dlig";
