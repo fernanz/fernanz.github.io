@@ -505,7 +505,8 @@ small {
 
 h2 + small {
   margin: 0 0 2em 0;
-  text-align: left; }
+  text-align: left;
+  color: #f00 !important; }
 
 h1 + p,
 h2 + p,
