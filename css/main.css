@@ -436,7 +436,7 @@ h2 {
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   margin: 0.6875em 0em 0em 0em;
-  font-family: 'Libre Baskerville', georgia, serif;
+  font-family: 'IM Fell English', Libre Baskerville, georgia, serif;
   font-style: normal;
   font-weight: 600; }
 
@@ -447,7 +447,7 @@ h3 {
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   margin: 1.0625em 0em;
-  font-family: 'Libre Baskerville', georgia, serif;
+  font-family: 'IM Fell English', Libre Baskerville, georgia, serif;
   font-style: normal;
   font-weight: 600; }
 
@@ -458,7 +458,7 @@ h4 {
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   margin: 0.76923em 0em;
-  font-family: 'Libre Baskerville', georgia, serif;
+  font-family: 'IM Fell English', Libre Baskerville, georgia, serif;
   font-style: normal;
   font-weight: 600; }
 
@@ -469,7 +469,7 @@ h5 {
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   margin: 1.1em 0em;
-  font-family: 'Libre Baskerville', georgia, serif;
+  font-family: 'IM Fell English', Libre Baskerville, georgia, serif;
   font-style: normal;
   font-weight: 600; }
 
@@ -550,7 +550,7 @@ blockquote {
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   margin-bottom: 0.75758em;
   text-indent: 0;
-  font-family: 'Libre Baskerville', georgia, serif;
+  font-family: 'IM Fell English', Libre Baskerville, georgia, serif;
   font-style: normal;
   font-weight: 600; }
 
