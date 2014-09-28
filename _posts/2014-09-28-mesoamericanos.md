@@ -25,7 +25,7 @@ Las obras siguientes, a diferencia de la primera son de factura azteca y represe
 
 Come señalé, la obra elegida aquí representa un jaguar domesticado; fue encontrada en **Monte Albán** y es parte de la colección del Museo Nacional de Antropología de la ciudad de México.
 
-Para terminar un pequeño ejemplo de la poesía náhuatl, obra del gran maestro de la palabra y rey de Texcoco **Nezahualcóyotl** &laquo;Coyote que ayuna&raquo;:
+Para terminar un pequeño ejemplo de la poesía náhuatl, obra del gran maestro de la palabra y rey de Texcoco, **Nezahualcóyotl** &laquo;Coyote que ayuna&raquo;:
 
 > **Yo Nezahualcóyotl lo pregunto:**  
 Acaso de veras se vive con raíz en la tierra?  
