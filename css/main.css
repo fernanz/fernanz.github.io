@@ -475,7 +475,8 @@ h5 {
 
 p {
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  text-indent: 1.66667em; }
+  text-indent: 1.81818em;
+  padding-bottom: 20px; }
 
 p,
 ul li,

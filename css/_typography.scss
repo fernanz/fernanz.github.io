@@ -87,8 +87,9 @@ h5 {
 }
 
 p {
-  $font-size: 24px;
+  $font-size: 22px;
   @include scale(text-indent, 40px, $font-size);
+  padding-bottom: 20px;
 }
 
 p,
