@@ -23,7 +23,7 @@ La primera escultura corresponde al dios maya del maíz **&laquo;Yum Uil&raquo;*
 
 Las obras siguientes, a diferencia de la primera son de factura azteca y representan dos animales siempre presentes en la rica iconografía nahua: el jaguar **&laquo;ocelotl&raquo;** y el perro **&laquo;itzcuintli&raquo;**. Si bien ambas criaturas también conforman el corpus mitológico de la cultura nahua, las que elegí destacan por su realismo y porque la intención del artista no se inclina por lo mitológico y lo fantástico como en otras obras de arte nahua; ¿a qué me refiero ...? por ejemplo el jaguar, felino muy reverenciado, simboliza para los aztecas el poder, la guerra y la fertilidad; incluso estaba vinculado con el linaje de los gobernantes, sin embargo en esta obra no apreciamos alguna referencia de caracter simbólico; la bufanda es indicio de su domesticación. 
 
-Come señalé, la obra elegida aquí representa un jaguar domesticado; fue encontrada en **Monte Albán** y es parte de la colección del Museo Nacional de Antropología de la ciudad de México.
+Como señalé, la obra elegida aquí representa un jaguar domesticado; fue encontrada en **Monte Albán** y es parte de la colección del Museo Nacional de Antropología de la ciudad de México.
 
 Para terminar un pequeño ejemplo de la poesía náhuatl, obra del gran maestro de la palabra y rey de Texcoco, **Nezahualcóyotl** &laquo;Coyote que ayuna&raquo;:
 
