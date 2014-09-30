@@ -509,8 +509,7 @@ h2 + small {
   text-align: left;
   color: #f00; }
 
-h2 + small,
-.brownie {
+small .brownie {
   margin: 0 0 2em 0;
   text-align: left;
   color: #70300a; }
