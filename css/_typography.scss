@@ -124,7 +124,13 @@ small {
 h2 + small {
   margin: 0 0 2em 0;
   text-align: left;
-  color: #f00 !important;
+  color: #f00;
+}
+
+h2 + small .brownie {
+  margin: 0 0 2em 0;
+  text-align: left;
+  color: #70300a;
 }
 
 h1,
