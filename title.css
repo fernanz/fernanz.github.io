@@ -1,0 +1,21 @@
+@import url( "../fonts/ostrich-sans-fontfacekit/stylesheet.css" );
+
+title {
+	background: rgba(0,0,0,0.9);
+	position: absolute;
+	color: #fff;
+	padding: 10px;
+	width: 160px;
+	-webkit-border-radius: 5px; /* Saf3+, Chrome */
+	   -moz-border-radius: 5px; /* FF1+ */
+	        border-radius: 5px; /* Opera 10.5, IE 9 */
+	text-align: center;
+	left: 15px;
+	bottom: 140px;
+	display: none;
+	font-weight: normal;
+	font-family: "OstrichSansBlack", serif;
+	text-rendering: optimizeLegibility;
+	font-size: 24px;
+	color: rgb(255,191,59);
+}
