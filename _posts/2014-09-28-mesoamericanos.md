@@ -12,14 +12,14 @@ location: Guayaquil, desde mi escritorio.
 Para decorar los encabezados de estas páginas preferí volver al arte prehispánico, he empezado con el arte de los antiguos pueblos nahua y maya, más adelante incluiré muestras de tierras sudamericanas. No las elegí para resaltar algún significado especial más que el estético y mi gusto por el arte figurativo naturalista de dichas culturas, sin olvidar su expresividad.
 
 <section class="fluido" id="dribbble-shots">
-<div class="gallery">
-<a href="http://fernanz.github.io/assets/mayan.png" title="" data-fluidbox class="col-3"><img src="http://fernanz.github.io/assets/mayan.png" alt="" title="" /></a>
-<div class="info-panel">
-			<h2>Yum Uil</h2>
-			<p><a href="http://britishmuseum.org">Museo británico</a></p>
-</div>			
+<div class="gallery info-panel">
+<ul><li><a href="http://fernanz.github.io/assets/mayan.png" title="" data-fluidbox class="col-3"><img src="http://fernanz.github.io/assets/mayan.png" alt="" title="" /></a>
+<h2>Yum Uil</h2>
+<p><a href="http://britishmuseum.org">Museo británico</a></p></li>
+			
 <a href="http://fernanz.github.io/assets/nahua.png" title="" data-fluidbox class="col-3"><img src="http://fernanz.github.io/assets/nahua.png" alt="" title="" /></a>
 <a href="http://fernanz.github.io/assets/doggy.png" title="" data-fluidbox class="col-3"><img src="http://fernanz.github.io/assets/doggy.png" alt="" title="" /></a>
+</ul>
 </div>
 </section>
 
