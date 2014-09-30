@@ -1,6 +1,6 @@
 @import url( "../fonts/stylesheet.css" );
 
-title {
+.info-panel {
 	background: rgba(0,0,0,0.9);
 	position: absolute;
 	color: #fff;
@@ -13,6 +13,18 @@ title {
 	left: 15px;
 	bottom: 140px;
 	display: none;
+}
+
+.no-js li:hover .info-panel {
+	display: block;
+}
+
+.portfolio li:nth-child(1n+4) .info-panel {
+	bottom: auto;
+	top: 140px;
+}
+
+.info-panel h2 {
 	font-weight: normal;
 	font-family: "OstrichSansBlack", serif;
 	text-rendering: optimizeLegibility;
