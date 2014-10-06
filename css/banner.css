@@ -19,7 +19,7 @@ body {
   font-weight: 100;
   line-height: 1.38;
   text-align: center;
-  color: #f7eed1;
+  color: #40485b;
 }
 
 .quotes a{
@@ -118,9 +118,7 @@ section {
 
 .bannerB {
   position:relative;
-  background-color: #808080;
-  background: -webkit-gradient(radial, 0% 75%, 0, 0% 75%, 900, from(#f5f7fa), to(#808080));
-  -moz-radial-gradient(0% 75%, farthest-side, #f5f7fa, #808080);
+  background-color: #DCDDED;
   padding: 20px 0 30px 0;
   margin-top: 0;
   z-index: 1;
@@ -163,12 +161,13 @@ nav li.evernote {
 
 .button a {
   position:relative;
+  background: #E7E7F2;
   margin: 10px;
   padding: 5px 1em;;
   border-radius: 3px;
-  border: 1px solid #333; 
+  border: 1px solid #40485b; 
   text-align:center;
-  color: #333;
+  color: #40485b;
 }
 
 .flu {
@@ -185,8 +184,8 @@ nav li.evernote {
 
 
 .button a:hover {
-  color: #40485b;
-  border: 1px solid #40485b; 
+  color: #aaa;
+  border: 1px solid #aaa; 
 }
 
 @media only screen and (min-width: 40em) {
