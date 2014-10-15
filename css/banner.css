@@ -203,7 +203,7 @@ nav li.evernote {
   font-family: Helvetica, sans-serif;
   color: white;
   font-size: 10em;
-  margin: 0 0 0 15px;
+  margin: -50px 0 0 15px;
   -webkit-mask-image: url('/assets/grey.png');
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
