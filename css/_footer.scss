@@ -6,6 +6,9 @@
   margin-top: prem(0px);
   padding: prem(32px) 0 prem(20px) 0;
   position: relative;
+  -webkit-mask-image: url('/assets/grey.png');
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: cover;
   
   a, a:link, a:visited {
     color: $color-subtle;
@@ -24,10 +27,7 @@
   color: white;
   font-size: 10em;
   margin: -50px 0 0 15px;
-  -webkit-mask-image: url('/assets/grey.png');
-  -webkit-mask-repeat: no-repeat;
-  -webkit-mask-size: cover;
-  -webkit-filter: drop-shadow(2px 2px 5px rgba(0,0,0, .5));
+-webkit-filter: drop-shadow(2px 2px 5px rgba(0,0,0, .5));
   }
   
   .wrapper {

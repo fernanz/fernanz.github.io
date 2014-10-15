@@ -755,7 +755,10 @@ img[src*='http://www.gravatar.com'] {
   color: #40485b;
   margin-top: 0rem;
   padding: 2rem 0 1.25rem 0;
-  position: relative; }
+  position: relative;
+  -webkit-mask-image: url("/assets/grey.png");
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: cover; }
   #footer a, #footer a:link, #footer a:visited {
     color: #40485b; }
   #footer p {
@@ -771,9 +774,6 @@ img[src*='http://www.gravatar.com'] {
     color: white;
     font-size: 10em;
     margin: -50px 0 0 15px;
-    -webkit-mask-image: url("/assets/grey.png");
-    -webkit-mask-repeat: no-repeat;
-    -webkit-mask-size: cover;
     -webkit-filter: drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.5)); }
   #footer .wrapper {
     zoom: 1; }
