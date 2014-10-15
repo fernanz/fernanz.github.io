@@ -200,15 +200,16 @@ nav li.evernote {
 }
 
 #footie {
+  float: left;
+  display:inline-flex;
   font-family: Helvetica, sans-serif;
   color: white;
   font-size: 10em;
-  margin: 0 0 0 50px;
+  margin: 0 0 0 15px;
   -webkit-mask-image: url('/assets/grey.png');
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   -webkit-filter: drop-shadow(2px 2px 5px rgba(0,0,0, .5));
-  animation: move 3s 1s forwards;
 }
 
 @media only screen and (min-width: 40em) {
