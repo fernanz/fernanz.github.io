@@ -201,7 +201,7 @@ nav li.evernote {
 
 #footie {
   float: left;
-  display:inline-flex;
+  display:inline;
   font-family: Helvetica, sans-serif;
   color: white;
   font-size: 10em;
