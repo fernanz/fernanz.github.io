@@ -755,10 +755,7 @@ img[src*='http://www.gravatar.com'] {
   color: #40485b;
   margin-top: 0rem;
   padding: 2rem 0 1.25rem 0;
-  position: relative;
-  -webkit-mask-image: url("/assets/grey.png");
-  -webkit-mask-repeat: no-repeat;
-  -webkit-mask-size: cover; }
+  position: relative; }
   #footer a, #footer a:link, #footer a:visited {
     color: #40485b; }
   #footer p {
@@ -769,12 +766,6 @@ img[src*='http://www.gravatar.com'] {
     font-family: 'Libre Baskerville', georgia, serif;
     font-style: italic;
     font-weight: 300; }
-  #footer h1 {
-    font-family: Helvetica, sans-serif;
-    color: white;
-    font-size: 10em;
-    margin: -50px 0 0 15px;
-    -webkit-filter: drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.5)); }
   #footer .wrapper {
     zoom: 1; }
     #footer .wrapper:before, #footer .wrapper:after {
@@ -787,7 +778,8 @@ img[src*='http://www.gravatar.com'] {
   #footer figure {
     text-align: center;
     padding-bottom: 1.25rem;
-    width: 100%; }
+    width: 100%;
+    -webkit-filter: drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.5)); }
     @media only screen and (min-width: 40em) {
       #footer figure {
         float: left;
