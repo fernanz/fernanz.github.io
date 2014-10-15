@@ -19,6 +19,17 @@
     @include type-italic;
   }
   
+  h1 {
+  font-family: Helvetica, sans-serif;
+  color: white;
+  font-size: 10em;
+  margin: -50px 0 0 15px;
+  -webkit-mask-image: url('/assets/grey.png');
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: cover;
+  -webkit-filter: drop-shadow(2px 2px 5px rgba(0,0,0, .5));
+  }
+  
   .wrapper {
     @include group;
   }

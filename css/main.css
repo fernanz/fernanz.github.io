@@ -766,6 +766,15 @@ img[src*='http://www.gravatar.com'] {
     font-family: 'Libre Baskerville', georgia, serif;
     font-style: italic;
     font-weight: 300; }
+  #footer h1 {
+    font-family: Helvetica, sans-serif;
+    color: white;
+    font-size: 10em;
+    margin: -50px 0 0 15px;
+    -webkit-mask-image: url("/assets/grey.png");
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: cover;
+    -webkit-filter: drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.5)); }
   #footer .wrapper {
     zoom: 1; }
     #footer .wrapper:before, #footer .wrapper:after {
