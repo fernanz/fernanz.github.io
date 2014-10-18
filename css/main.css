@@ -750,7 +750,7 @@ img[src*='http://www.gravatar.com'] {
       width: 100%; } }
 
 #footer {
-  background: url(/assets/footer_lodyas.png);
+  background: url(../assets/papers.png);
   color: #40485b;
   margin-top: 0rem;
   padding: 2rem 0 1.25rem 0;
