@@ -120,16 +120,7 @@ section {
   position:relative;
   background-color: #DCDDED;
     /* Safari 5.1, Chrome 10+ */
-  background: -webkit-linear-gradient(top, #f7eed1, #f6d07e);
-
-  /* Firefox 3.6+ */
-  background: -moz-linear-gradient(top, #f7eed1, #f6d07e);
-
-  /* IE 10 */
-  background: -ms-linear-gradient(top, #f7eed1, #f6d07e);
-
-  /* Opera 11.10+ */
-  background: -o-linear-gradient(top, #f7eed1, #f6d07e);
+  background: url(../assets/papers.png)
   padding: 20px 0 30px 0;
   margin-top: 0;
   z-index: 1;
