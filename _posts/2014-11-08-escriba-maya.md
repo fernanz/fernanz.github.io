@@ -8,12 +8,8 @@ location: Guayaquil, desde mi escritorio.
 ---
 
 ### &laquo;Vaso del conejo escriba&raquo;
-<<<<<<< HEAD
 
 Cuenta el **Popol Vuh** como **Junajpú** e **Xbalamqué** descienden al inframundo **”Xibalbá”** y se enfrentan a los Señores de la muerte en el ritual juego de pelota para definir la continuidad del universo. Con tretas y engaño los Señores de la muerte estaban venciendo a los gemelos **Junajpú** e **Xbalamqué**, y habían decapitado a uno de ellos; pero con la ayuda de **Imul** “El conejo” quien se hizo pasar por la pelota de hule, **Xbalamqué** engaña a éstos y vuelve a vencerlos:   
-=======
-<small>Esta es una nota rápida, más bien un borrador de un artículo más extenso sobre el vaso del conejo escriba y su relación con el Popol Vuh.</small>
->>>>>>> FETCH_HEAD
 
 > Puesta la cabeza de **Junajpú** en el atrio, los Señores fueron a celebrar el vencimiento de los muchachos y se pusieron a jugar la pelota. <br />  
 > **Xbalamqué** rebatió fuertemente la pelota que fue a caer junto a un tomatal donde estaba un **conejo**, aconsejado por **Xbalamqué**, que salió corriendo y los Señores detrás de él creyendo que era la pelota. <br />  
