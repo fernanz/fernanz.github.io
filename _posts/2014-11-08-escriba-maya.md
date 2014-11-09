@@ -7,9 +7,8 @@ categories: notas
 location: Guayaquil, desde mi escritorio.
 ---
 
-### &laquo;Vaso del conejo escriba&raquo;  
-
-<article><small>Esta es una nota rápida, más bien un borrador de un artículo más extenso sobre el vaso del conejo escriba y su relación con el Popol Vuh.</small></article>  
+### &laquo;Vaso del conejo escriba&raquo;
+<small>Esta es una nota rápida, más bien un borrador de un artículo más extenso sobre el vaso del conejo escriba y su relación con el Popol Vuh.</small>
 
 Los vasos de cerámica pintada tienen su apogeo en el perído maya Clásico, es arte elitista utilizado por los nobles quienes los intercambiaban como regalos en los banquetes; este tipo de recipientes cilíndricos también eran de uso ceremonial para tomar cacao.  
 
