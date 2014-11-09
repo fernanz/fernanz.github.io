@@ -38,6 +38,7 @@ Para concluir, es importante señalar que los vasos de cerámica pintada tuviero
 				<div class="gallery">
 				<a href="/assets/mayan4.png" title="" data-fluidbox class="col-2"><img src="/assets/mayan4.png" alt="" title="" /></a>								
 				<a href="/assets/escriba.png" title="" data-fluidbox class="col-2"><img src="/assets/escriba.png" alt="" title="" /></a>
+				<figcaption>Haz click en la imagen para agrandarla.</figcaption>
 				</div>
 </section>
 
