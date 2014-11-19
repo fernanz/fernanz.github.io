@@ -492,15 +492,16 @@ ol li {
   margin: 1em 0;
   padding: .5em 1em; }
 
-a .aller {
+.aller a {
   font-size: 4.4375em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   line-height: 1.05634em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   margin-bottom: 0.35211em;
-  font-family: 'Libre Baskerville', georgia, serif;
+  font-family: Volkorn, sans-serif;
   font-style: normal;
-  font-weight: 700; }
+  font-weight: 400;
+  letter-spacing: 2px; }
 
 small {
   display: block;
