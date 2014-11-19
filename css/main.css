@@ -409,7 +409,7 @@ body {
   -ms-font-feature-settings: "liga","dlig";
   -o-font-feature-settings: "liga","dlig";
   font-feature-settings: "liga","dlig";
-  font-family: 'Aller', sans-serif;
+  font-family: 'Libre Baskerville', georgia, serif;
   font-style: normal;
   font-weight: 400; }
   @media only screen and (min-width: 47.5em) {
@@ -484,7 +484,7 @@ ol li {
   font-size: 1.5em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   line-height: 1.66667em;
-  font-family: 'Aller', sans-serif;
+  font-family: 'Libre Baskerville', georgia, serif;
   font-style: normal;
   font-weight: 400; }
 
@@ -731,11 +731,11 @@ header:hover {
       color: #000;
       font-size: 1.5rem;
       line-height: 2.5rem;
-      font-family: 'Aller', sans-serif;
+      font-family: 'Libre Baskerville', georgia, serif;
       font-style: normal;
       font-weight: 400; }
     #aside article p:last-child {
-      font-family: 'Aller', sans-serif;
+      font-family: 'Libre Baskerville', georgia, serif;
       font-style: normal;
       font-weight: 400; }
 
@@ -795,11 +795,11 @@ img[src*='http://www.gravatar.com'] {
       color: #40485b;
       font-size: 1.125rem;
       line-height: 1.875rem;
-      font-family: 'Aller', sans-serif;
+      font-family: 'Libre Baskerville', georgia, serif;
       font-style: normal;
       font-weight: 400; }
     #footer article p:last-child {
-      font-family: 'Aller', sans-serif;
+      font-family: 'Libre Baskerville', georgia, serif;
       font-style: normal;
       font-weight: 400; }
 

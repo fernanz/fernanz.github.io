@@ -10,8 +10,14 @@
   font-weight: 600;
 }
 
-@mixin type-copy {
+@mixin type-heading {
   font-family: 'Aller', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@mixin type-copy {
+  font-family: 'Libre Baskerville', georgia, serif;
   font-style: normal;
   font-weight: 400;
 }

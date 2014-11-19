@@ -21,7 +21,7 @@ header {
     line-height: prem(33px);
     margin: 0 0 prem(2px) 0;
     text-align: center;
-    @include type-copy;
+    @include type-heading;
     
     @media only screen and (min-width: $break-medium) {
       float: left;
