@@ -108,7 +108,7 @@ ol li {
 
 // Header type
 
-header > h1 {
+.aller {
   $font-size: 71px;
   font-size: pem($font-size);
   @include scale(line-height, 75px, $font-size);
