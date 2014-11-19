@@ -492,7 +492,7 @@ ol li {
   margin: 1em 0;
   padding: .5em 1em; }
 
-.aller {
+a .aller {
   font-size: 4.4375em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   line-height: 1.05634em;
