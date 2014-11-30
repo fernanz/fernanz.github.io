@@ -592,8 +592,7 @@ figcaption {
   font-weight: 300; }
 
 header {
-  background-color: #f7eed1;
-  background: url(../assets/orangine.svg);
+  background-color: #FFFAF6;
   background-size: cover;
   zoom: 1;
   padding: 1.6875rem 1.25rem 14.875rem 1.25rem;

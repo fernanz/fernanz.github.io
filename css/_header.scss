@@ -1,6 +1,5 @@
 header {
-  background-color: $color-aside-bg;
-  background: url(../assets/orangine.svg);
+  background-color: $color-bg;
   background-size:cover;
   @include group;
   padding: prem(27px) prem(20px) prem(238px) prem(20px);
