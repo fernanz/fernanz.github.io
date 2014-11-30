@@ -592,7 +592,7 @@ figcaption {
   font-weight: 300; }
 
 header {
-  background-color: #FFFAF6;
+  background-color: #E6E9ED;
   background-size: cover;
   zoom: 1;
   padding: 1.6875rem 1.25rem 14.875rem 1.25rem;
@@ -688,7 +688,7 @@ header:hover {
     transition: all 0.3s ease-in-out; }
 
 #aside {
-  background: #f7eed1;
+  background: #E6E9ED;
   color: #40485b;
   margin-top: 0.3125rem;
   padding: 2rem 0 1.25rem 0;
@@ -1146,7 +1146,7 @@ img[src*='http://www.gravatar.com'] {
   box-sizing: border-box; }
 
 body {
-  background-color: #FFFAF6;
+  background-color: #E6E9ED;
   color: #000; }
 
 article img {
