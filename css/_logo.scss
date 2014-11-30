@@ -25,4 +25,12 @@
     }
   }
   
+  img:hover {
+		-webkit-filter: grayscale(0.7);
+		-moz-filter: grayscale(0.7);
+		filter: grayscale(0.7);
+		-webkit-transition: all 0.3s ease-in-out;
+		-moz-transition: all 0.3s ease-in-out;
+		transition: all 0.3s ease-in-out;
+	}
 }
