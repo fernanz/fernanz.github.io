@@ -650,14 +650,6 @@ header {
       letter-spacing: 2px;
       font-style: normal; }
 
-header:hover {
-  -webkit-filter: grayscale(0.6);
-  -moz-filter: grayscale(0.6);
-  filter: grayscale(0.6);
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out; }
-
 .head_logo {
   position: absolute;
   width: 100%;
