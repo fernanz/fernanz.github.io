@@ -786,11 +786,11 @@ img[src*='http://www.gravatar.com'] {
       color: #40485b;
       font-size: 1.125rem;
       line-height: 1.875rem;
-      font-family: 'Libre Baskerville', georgia, serif;
+      font-family: 'Aller', sans-serif;
       font-style: normal;
       font-weight: 400; }
     #footer article p:last-child {
-      font-family: 'Libre Baskerville', georgia, serif;
+      font-family: 'Aller', sans-serif;
       font-style: normal;
       font-weight: 400; }
 

@@ -53,11 +53,11 @@
         color: $color-subtle;
         font-size: prem(18px);
         line-height: prem(30px);
-        @include type-copy;
+        @include type-heading;
       }
       
       &:last-child {
-        @include type-copy;
+        @include type-heading;
       }
     }
   }
