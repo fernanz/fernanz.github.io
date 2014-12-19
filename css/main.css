@@ -495,7 +495,7 @@ ol li {
 small {
   display: block;
   text-align: right;
-  margin-top: 2.5rem;
+  margin-top: 0.625rem;
   font-family: 'Libre Baskerville', georgia, serif;
   font-style: italic;
   font-weight: 300;
