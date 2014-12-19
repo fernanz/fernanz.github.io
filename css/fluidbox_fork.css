@@ -73,7 +73,7 @@
 	justify-content:space-between;
  }
 	.fluido .gallery a {
-		margin-bottom: 0;
+		margin-bottom: 2rem;
 	}
 		.fluido .gallery a.col-1 { width: 100%; }
 		.fluido .gallery a.col-2 { width: 49%; width: calc(50% - .5rem); }
