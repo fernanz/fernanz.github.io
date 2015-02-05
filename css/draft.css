@@ -332,23 +332,6 @@ Examples:
 @include scale(text-shadow, (#0d6e28 1 1) (#777 0 0 2), 16);
 @include scale(box-shadow, (inset 0 0 0 1 #2a9022) (inset 0 0 3 #459966), 16);
 */
-.wrapper {
-  margin: 0 auto;
-  max-width: 46.25rem;
-  padding: 0 1.25rem; }
-
-@media only screen and (min-width: 87.75em) {
-  aside.digression {
-    margin: -0.375rem -19.3125rem 0 0;
-    float: right;
-    width: 16.8125rem; }
-  aside.tangent {
-    margin: -0.375rem 0 0 -19.3125rem;
-    float: left;
-    width: 16.8125rem; } }
-aside b {
-  margin-left: -0.875rem;
-  float: left; }
 
 a, a:link, a:visited {
   color: #000;
@@ -397,8 +380,6 @@ a.return-to-text, a:link.return-to-text, a:visited.return-to-text {
     clip: rect(0 0 0 0); }
 
 body {
-  color: #000;
-  font-size: .90em;
   -webkit-font-feature-settings: "liga","dlig";
   -moz-font-feature-settings: "liga=1, dlig=1";
   -moz-font-feature-settings: "liga","dlig";
@@ -408,20 +389,18 @@ body {
   font-family: 'Libre Baskerville', georgia, serif;
   font-style: normal;
   font-weight: 400; }
-  @media only screen and (min-width: 47.5em) {
-    body {
-      font-size: .80em;
-      line-height: 1.6; } }
 
 h1 {
   font-family: 'Libre Baskerville', georgia, serif;
   font-style: normal;
-  font-weight: 700; }
+  font-weight: 700; 
+  color: #333;}
 
 h2 {
   font-family: 'IM Fell English', Libre Baskerville, georgia, serif;
   font-style: normal;
-  font-weight: 600; }
+  font-weight: 600;
+  color: #333; }
 
 h3 {
   font-family: 'IM Fell English', Libre Baskerville, georgia, serif;
@@ -449,11 +428,6 @@ h5 {
   font-family: 'IM Fell English', Libre Baskerville, georgia, serif;
   font-style: normal;
   font-weight: 600; }
-
-p {
-  /* unwrap lists for values that have multiple list of values such as text-shadow */
-  text-indent: 1.81818em;
-  padding-bottom: 20px; }
 
 p,
 ul li,
