@@ -58,7 +58,7 @@ html {
  * Remove default margin.
  */
 body {
-  margin: 30px 30px 50px 30px; }
+  margin: 30px 10px 50px 10px; }
 
 p {
   margin: 0; }
@@ -396,14 +396,14 @@ h1 {
   font-family: 'Libre Baskerville', georgia, serif;
   font-style: normal;
   font-weight: 700; 
-  color: #333;}
+  color: #000;}
 
 h2 {
   font-size: 1.5rem;
   font-family: 'IM Fell English', Libre Baskerville, georgia, serif;
   font-style: normal;
   font-weight: 600;
-  color: #333; }
+  color: #000; }
 
 h3 {
   font-size: 1rem;
