@@ -11,18 +11,13 @@
     left: 50%;
     margin-left: prem(-114px);
     position: absolute;
-    top: prem(230px);
+    top: prem(94px);
     width: prem(227px);
     
     @media only screen and (min-width: $break-medium) {
       top: prem(94px);
     }
     
-    @media only screen and (min-width: $break-large) {
-      left: prem(65px);
-      margin-left: 0;
-      top: prem(94px);
-    }
   }
   
   img:hover {

@@ -363,7 +363,7 @@ a, a:link, a:visited {
   transition: color 0.3s ease-in-out; }
 
 a:hover, a:focus, a:active {
-  color: #513f21; }
+  color: #C8C8C8; }
 
 p a, p a:link, p a:visited,
 ul a,
@@ -400,6 +400,11 @@ a.return-to-text, a:link.return-to-text, a:visited.return-to-text {
     border: 0;
     clip: rect(0 0 0 0); }
 
+@font-face {
+  font-family: 'Aller';
+  src: url("../typos/Aller.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400; }
 body {
   color: #000;
   font-size: .90em;
@@ -420,9 +425,9 @@ body {
 h1 {
   font-size: 4.4375em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  line-height: 1.05634em;
+  line-height: 1.0563380282em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  margin-bottom: 0.35211em;
+  margin-bottom: 0.3521126761em;
   font-family: 'Libre Baskerville', georgia, serif;
   font-style: normal;
   font-weight: 700; }
@@ -430,7 +435,7 @@ h1 {
 h2 {
   font-size: 3em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  line-height: 1.27083em;
+  line-height: 1.2708333333em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   /* unwrap lists for values that have multiple list of values such as text-shadow */
@@ -454,10 +459,10 @@ h3 {
 h4 {
   font-size: 1.625em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  line-height: 1.53846em;
+  line-height: 1.5384615385em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  margin: 0.76923em 0em;
+  margin: 0.7692307692em 0em;
   font-family: 'IM Fell English', Libre Baskerville, georgia, serif;
   font-style: normal;
   font-weight: 600; }
@@ -475,7 +480,7 @@ h5 {
 
 p {
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  text-indent: 1.81818em;
+  text-indent: 1.8181818182em;
   padding-bottom: 20px; }
 
 p,
@@ -483,7 +488,7 @@ ul li,
 ol li {
   font-size: 1.5em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  line-height: 1.66667em;
+  line-height: 1.6666666667em;
   font-family: 'Libre Baskerville', georgia, serif;
   font-style: normal;
   font-weight: 400; }
@@ -495,7 +500,7 @@ ol li {
 small {
   display: block;
   text-align: right;
-  margin-top: 2.5rem;
+  margin-top: 0.0625rem;
   font-family: 'Libre Baskerville', georgia, serif;
   font-style: italic;
   font-weight: 300;
@@ -525,10 +530,10 @@ figure + p {
 blockquote {
   font-size: 0.875em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  line-height: 2.85714em;
+  line-height: 2.8571428571em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  margin: 1.42857em 2.85714em;
+  margin: 1.4285714286em 2.8571428571em;
   font-family: 'Libre Baskerville', georgia, serif;
   font-style: italic;
   font-weight: 300;
@@ -537,7 +542,7 @@ blockquote {
     blockquote {
       /* unwrap lists for values that have multiple list of values such as text-shadow */
       /* unwrap lists for values that have multiple list of values such as text-shadow */
-      margin: 2.85714em 5.71429em; } }
+      margin: 2.8571428571em 5.7142857143em; } }
 
 blockquote {
   border-left: 5px solid #eee;
@@ -547,9 +552,9 @@ blockquote {
 .lead {
   font-size: 2.0625em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  line-height: 1.51515em;
+  line-height: 1.5151515152em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  margin-bottom: 0.75758em;
+  margin-bottom: 0.7575757576em;
   text-indent: 0;
   font-family: 'IM Fell English', Libre Baskerville, georgia, serif;
   font-style: normal;
@@ -592,44 +597,31 @@ figcaption {
   font-weight: 300; }
 
 header {
-  background-color: #f7eed1;
-  background: url(../assets/orangine.svg);
+  background-color: #F5F7FA;
   background-size: cover;
-  zoom: 1;
-  padding: 1.6875rem 1.25rem 14.875rem 1.25rem;
-  margin-bottom: 0; }
-  header:before, header:after {
-    content: "";
-    display: table; }
-  header:after {
-    clear: both; }
-  @media only screen and (min-width: 47.5em) {
-    header {
-      padding: 1.6875rem 2.5rem 10rem 2.5rem; } }
-  @media only screen and (min-width: 87.75em) {
-    header {
-      padding-bottom: 0;
-      margin-bottom: 0; } }
+  min-height: 495px;
+  margin: 0 auto;
+  max-width: 46.25rem;
+  padding: 22.1875rem 1.25rem 0 1.25rem; }
   header > h1 {
     font-size: 1.8125rem;
     line-height: 2.0625rem;
     margin: 0 0 0.125rem 0;
     text-align: center;
-    font-family: 'Libre Baskerville', georgia, serif;
+    letter-spacing: 5px;
+    font-family: 'Aller', sans-serif;
     font-style: normal;
     font-weight: 400; }
     @media only screen and (min-width: 47.5em) {
       header > h1 {
-        float: left;
         margin-top: 0;
-        text-align: left;
-        width: 18.75rem; } }
+        text-align: center; } }
     header > h1 a, header > h1 a:link, header > h1 a:visited {
       color: #40485b; }
     header > h1 a:hover, header > h1 a:focus, header > h1 a:active {
-      color: #513f21; }
+      color: #C8C8C8; }
   header > h2 {
-    color: #40485b;
+    color: #555;
     margin-top: 0;
     text-align: center;
     font-family: 'Libre Baskerville', georgia, serif;
@@ -639,25 +631,15 @@ header {
     line-height: 1.5rem; }
     @media only screen and (min-width: 47.5em) {
       header > h2 {
-        float: right;
-        text-align: right;
-        width: 28.75rem; } }
+        text-align: center; } }
     header > h2 span {
       display: block; }
     header > h2 a, header > h2 a:link {
-      font-family: Volkorn, sans-serif;
+      font-family: 'Volkorn', sans-serif;
       font-style: normal;
       font-weight: 400;
       letter-spacing: 2px;
       font-style: normal; }
-
-header:hover {
-  -webkit-filter: grayscale(0.9);
-  -moz-filter: grayscale(0.9);
-  filter: grayscale(0.9);
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out; }
 
 .head_logo {
   position: absolute;
@@ -670,26 +652,21 @@ header:hover {
     left: 50%;
     margin-left: -7.125rem;
     position: absolute;
-    top: 14.375rem;
+    top: 5.875rem;
     width: 14.1875rem; }
     @media only screen and (min-width: 47.5em) {
       .head_logo img {
         top: 5.875rem; } }
-    @media only screen and (min-width: 87.75em) {
-      .head_logo img {
-        left: 4.0625rem;
-        margin-left: 0;
-        top: 5.875rem; } }
   .head_logo img:hover {
-    -webkit-filter: contrast(10);
-    -moz-filter: contrast(10);
-    filter: contrast(10);
+    -webkit-filter: grayscale(0.7);
+    -moz-filter: grayscale(0.7);
+    filter: grayscale(0.7);
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out; }
 
 #aside {
-  background: #f7eed1;
+  background: #F5F7FA;
   color: #40485b;
   margin-top: 0.3125rem;
   padding: 2rem 0 1.25rem 0;
@@ -750,8 +727,7 @@ img[src*='http://www.gravatar.com'] {
       width: 100%; } }
 
 #footer {
-  background: url(/assets/grey.svg);
-  background-size: cover;
+  background: url(../assets/papers.png);
   color: #40485b;
   margin-top: 0rem;
   padding: 2rem 0 1.25rem 0;
@@ -778,7 +754,8 @@ img[src*='http://www.gravatar.com'] {
   #footer figure {
     text-align: center;
     padding-bottom: 1.25rem;
-    width: 100%; }
+    width: 100%;
+    -webkit-filter: drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.5)); }
     @media only screen and (min-width: 40em) {
       #footer figure {
         float: left;
@@ -795,11 +772,11 @@ img[src*='http://www.gravatar.com'] {
       color: #40485b;
       font-size: 1.125rem;
       line-height: 1.875rem;
-      font-family: 'Libre Baskerville', georgia, serif;
+      font-family: 'Aller', sans-serif;
       font-style: normal;
       font-weight: 400; }
     #footer article p:last-child {
-      font-family: 'Libre Baskerville', georgia, serif;
+      font-family: 'Aller', sans-serif;
       font-style: normal;
       font-weight: 400; }
 
@@ -1147,7 +1124,7 @@ img[src*='http://www.gravatar.com'] {
   box-sizing: border-box; }
 
 body {
-  background-color: #FFFAF6;
+  background-color: #F5F7FA;
   color: #000; }
 
 article img {

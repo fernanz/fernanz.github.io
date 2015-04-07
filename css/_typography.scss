@@ -1,3 +1,10 @@
+@font-face {
+  font-family:'Aller';
+  src: url('../typos/Aller.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+}
+
 @mixin type-display {
   font-family:  'Libre Baskerville', georgia, serif;
   font-style: normal;
@@ -29,7 +36,7 @@
 }
 
 @mixin type-headlink {
-  font-family: Volkorn, sans-serif;
+  font-family: 'Volkorn', sans-serif;
   font-style: normal;
   font-weight: 400;
   letter-spacing:2px;
