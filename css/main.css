@@ -356,8 +356,7 @@ aside b {
 
 a, a:link, a:visited {
   color: #000;
-  text-decoration-color: #e63b15;
-  text-decoration-syle: dotted;
+  text-decoration: none;
   -webkit-transition: color 0.3s ease-in-out;
   -moz-transition: color 0.3s ease-in-out;
   -o-transition: color 0.3s ease-in-out;
@@ -673,9 +672,7 @@ header {
   padding: 2rem 0 1.25rem 0;
   position: relative; }
   #aside a, #aside a:link, #aside a:visited {
-    color: #40485b;
-    text-decoration-color: #e63b15;
-    text-decoration-syle: dotted; }
+    color: #40485b; }
   #aside p {
     font-size: 1.125rem;
     line-height: 1.875rem;
