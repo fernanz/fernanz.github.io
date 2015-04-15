@@ -1,6 +1,7 @@
 a, a:link, a:visited {
   color: $color-text;
-  text-decoration: none;
+  text-decoration-color: $color-faded;
+  text-decoration-syle: dotted;
   @include transition(color, .3s, ease-in-out);
 }
 a:hover, a:focus, a:active {

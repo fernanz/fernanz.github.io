@@ -8,6 +8,8 @@
   
   a, a:link, a:visited {
     color: $color-subtle;
+    text-decoration-color: $color-faded;
+    text-decoration-syle: dotted;
   }
   
   p {
