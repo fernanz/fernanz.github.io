@@ -5,6 +5,7 @@
 /**
  * Correct `block` display not defined in IE 8/9.
  */
+@import url(https://brick.a.ssl.fastly.net/Oswald:200,300);
 article,
 aside,
 details,
@@ -609,7 +610,7 @@ header {
     margin: 0 0 0.125rem 0;
     text-align: center;
     letter-spacing: 5px;
-    font-family: 'Aller', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-style: normal;
     font-weight: 400; }
     @media only screen and (min-width: 47.5em) {
@@ -772,11 +773,11 @@ img[src*='http://www.gravatar.com'] {
       color: #40485b;
       font-size: 1.125rem;
       line-height: 1.875rem;
-      font-family: 'Aller', sans-serif;
+      font-family: 'Oswald', sans-serif;
       font-style: normal;
       font-weight: 400; }
     #footer article p:last-child {
-      font-family: 'Aller', sans-serif;
+      font-family: 'Oswald', sans-serif;
       font-style: normal;
       font-weight: 400; }
 

@@ -1,3 +1,5 @@
+@import url(https://brick.a.ssl.fastly.net/Oswald:200,300);
+
 @font-face {
   font-family:'Aller';
   src: url('../typos/Aller.ttf') format('truetype');
@@ -18,7 +20,7 @@
 }
 
 @mixin type-heading {
-  font-family: 'Aller', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-style: normal;
   font-weight: 400;
 }
