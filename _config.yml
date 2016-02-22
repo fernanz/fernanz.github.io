@@ -1,6 +1,6 @@
 name: Fernando Mayorga
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 exclude: [main.scss, config.rb]
 description: Personal website de Fernando Mayorga sobre Arte, Historia y Patrimonio
 url: http://fernanz.github.io/
