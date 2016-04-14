@@ -54,7 +54,7 @@ body {
   font-size: .90em;
   @include ligatures;
   @include type-copy;
-  
+
   @media only screen and (min-width: $break-medium) {
     font-size: .80em;
     line-height: 1.6;
@@ -103,7 +103,7 @@ h5 {
 
 p {
   $font-size: 22px;
-  @include scale(text-indent, 40px, $font-size);
+  @include scale(text-indent, 0px, $font-size);
   padding-bottom: 20px;
 }
 
@@ -129,7 +129,7 @@ small {
   margin-top: prem(1px);
   @include type-italic;
   @include type-size-small;
-  
+
   & + p {
     text-indent: 0;
   }
@@ -138,7 +138,7 @@ small {
 h2 + small {
   margin: 0 0 2em 0;
   text-align: left;
-  color: #f00;
+  color: $color-orange;
 }
 
 h1,
@@ -165,15 +165,15 @@ blockquote {
   @include scale(margin, 20px 40px, $font-size);
   @include type-italic;
   color: $color-quote;
-  
+
   @media only screen and (min-width: $break-medium) {
     @include scale(margin, 40px 80px, $font-size);
   }
 }
 
 blockquote {
-    border-left:5px solid #eee; 
-    padding-left:1.5em; 
+    border-left:5px solid #eee;
+    padding-left:1.5em;
     margin:1em 0;
 }
 
@@ -195,15 +195,15 @@ aside {
     margin: prem(33px) prem(40px) prem(49px) prem(40px);
     text-indent: 0;
     @include type-italic;
-    
+
     @media only screen and (min-width: $break-small) {
       margin: prem(33px) prem(80px) prem(49px) prem(80px);
     }
-    
+
     @media only screen and (min-width: $break-large) {
       margin: prem(10px) 0 0 0;
     }
-    
+
     a, a:link, a:visited {
       color: $color-subtle;
     }

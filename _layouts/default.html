@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="/css/main.css">
     <link rel="stylesheet" type="text/css" href="/css/animate.css">
     <link rel="stylesheet" type="text/css" href="/css/banner.css">
-    <link rel="stylesheet" type="text/css" href="css/slider_ad.css" />
+    <link rel="stylesheet" type="text/css" href="css/flexy.css" />
     <link rel="stylesheet" type="text/css" href="css/fluidbox_fork.css" />
         <!-- Typography Project stylesheet -->
     <link rel="stylesheet" href="/css/typoo.css" >
@@ -27,21 +27,24 @@
      <link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic|Vast+Shadow|Oswald:300|Playfair+Display+SC' rel='stylesheet' type='text/css'>
      <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Libre+Baskerville:400,400i">
      <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=IM+Fell+English:400,400italic' type='text/css'>
+
+
   </head>
   <body>
-      {% include header.html %}   
+      {% include header.html %}
+      {% include flexy.html %}
     <div class="wrapper">
       {{ content }}
     </div>
-    {% include aside.html %}
-    
+    {% include indexado.html %}
+
     <section class="bannerB clearfix">
         <h1>Something else...</h1>
         <div class="flu">
         <div>
         	<h1 class="button">
         	<a href="diogenes.html">Citando a Diógenes</a></h1>
-        </div>	
+        </div>
         <div>
         	<h1 class="button">
         	<a href="keller.html">Mi historia H. K.</a></h1>
@@ -49,7 +52,7 @@
         <div>
         	<h1 class="button">
         	<a href="1982.html">1982</a></h1>
-        </div>	
+        </div>
         </div>
     </section>
 

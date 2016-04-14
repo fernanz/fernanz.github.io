@@ -364,7 +364,7 @@ a, a:link, a:visited {
   transition: color 0.3s ease-in-out; }
 
 a:hover, a:focus, a:active {
-  color: #C8C8C8; }
+  color: #9C1E23; }
 
 p a, p a:link, p a:visited,
 ul a,
@@ -481,7 +481,7 @@ h5 {
 
 p {
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  text-indent: 1.81818em;
+  text-indent: 0em;
   padding-bottom: 20px; }
 
 p,
@@ -513,7 +513,7 @@ small {
 h2 + small {
   margin: 0 0 2em 0;
   text-align: left;
-  color: #f00; }
+  color: #9C1E23; }
 
 h1 + p,
 h2 + p,
@@ -562,7 +562,7 @@ blockquote {
   font-weight: 600; }
 
 aside > p {
-  color: #40485b;
+  color: #484848;
   font-size: 1.125rem;
   line-height: 1.875rem;
   margin: 2.0625rem 2.5rem 3.0625rem 2.5rem;
@@ -577,7 +577,7 @@ aside > p {
     aside > p {
       margin: 0.625rem 0 0 0; } }
   aside > p a, aside > p a:link, aside > p a:visited {
-    color: #40485b; }
+    color: #484848; }
 
 .asterism {
   margin-top: 4.8125rem;
@@ -590,7 +590,7 @@ aside > p {
   text-align: center; }
 
 figcaption {
-  color: #40485b;
+  color: #484848;
   margin: -1.875em 0 2.5em 0;
   text-align: left;
   font-family: 'Libre Baskerville', georgia, serif;
@@ -598,11 +598,10 @@ figcaption {
   font-weight: 300; }
 
 header {
-  background-color: #F5F7FA;
-  background-size: cover;
-  min-height: 495px;
+  background-color: #0E1519;
+  min-height: 455px;
   margin: 0 auto;
-  max-width: 46.25rem;
+  width: 100%;
   padding: 22.1875rem 1.25rem 0 1.25rem; }
   header > h1 {
     font-size: 1.8125rem;
@@ -619,11 +618,11 @@ header {
         margin-top: 0;
         text-align: center; } }
     header > h1 a, header > h1 a:link, header > h1 a:visited {
-      color: #40485b; }
+      color: #fdf5e2; }
     header > h1 a:hover, header > h1 a:focus, header > h1 a:active {
-      color: #C8C8C8; }
+      color: #484848; }
   header > h2 {
-    color: #555;
+    color: #9C1E23;
     margin-top: 0;
     text-align: center;
     font-family: 'Libre Baskerville', georgia, serif;
@@ -660,21 +659,21 @@ header {
       .head_logo img {
         top: 5.875rem; } }
   .head_logo img:hover {
-    -webkit-filter: grayscale(0.7);
-    -moz-filter: grayscale(0.7);
-    filter: grayscale(0.7);
+    -webkit-filter: sepia(0.7);
+    -moz-filter: sepia(0.7);
+    filter: sepia(0.7);
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out; }
 
 #aside {
-  background: #F5F7FA;
-  color: #40485b;
+  background: #fffff8;
+  color: #484848;
   margin-top: 0.3125rem;
   padding: 2rem 0 1.25rem 0;
   position: relative; }
   #aside a, #aside a:link, #aside a:visited {
-    color: #40485b; }
+    color: #484848; }
   #aside p {
     font-size: 1.125rem;
     line-height: 1.875rem;
@@ -730,12 +729,12 @@ img[src*='http://www.gravatar.com'] {
 
 #footer {
   background: url(../assets/papers.png);
-  color: #40485b;
+  color: #0E1519;
   margin-top: 0rem;
   padding: 2rem 0 1.25rem 0;
   position: relative; }
   #footer a, #footer a:link, #footer a:visited {
-    color: #40485b; }
+    color: #484848; }
   #footer p {
     font-size: 0.875rem;
     line-height: 1.375rem;
@@ -771,7 +770,7 @@ img[src*='http://www.gravatar.com'] {
         padding-right: 2.5rem;
         width: 75%; } }
     #footer article p:nth-last-child(2) {
-      color: #40485b;
+      color: #484848;
       font-size: 1.125rem;
       line-height: 1.875rem;
       font-family: 'Oswald', sans-serif;
@@ -1126,7 +1125,7 @@ img[src*='http://www.gravatar.com'] {
   box-sizing: border-box; }
 
 body {
-  background-color: #F5F7FA;
+  background-color: #fffff8;
   color: #000; }
 
 article img {

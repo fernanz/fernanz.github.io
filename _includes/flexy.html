@@ -1,0 +1,21 @@
+  <section class="flexy">
+  <div class="cards-container">
+	<div class="cards fluido">
+  {% for post in site.posts offset: 1 limit: 3 %}
+		<a class="card" href="{{post.url}}">
+			<span class="card-header">
+				<span class="card-title">
+					<h3>{{ post.title }}</h3>
+				</span>
+			</span>
+			<span class="card-summary">
+				   {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+			</span>
+			<span class="card-meta">
+				Publicado: {{ post.date | date_to_string }}
+			</span>
+		</a>
+      {% endfor %}
+  </div>
+</div>
+  </section>

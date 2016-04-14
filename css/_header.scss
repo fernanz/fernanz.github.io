@@ -1,11 +1,10 @@
 header {
-  background-color: $color-bg;
-  background-size:cover;
-  min-height: 495px;    
+  background-color: $color-bbg;
+  min-height: 455px;
   margin: 0 auto;
-  max-width: prem(740px);
+  width: 100%;
   padding: prem(355px) prem(20px) 0 prem(20px);
-  
+
   // <h1> logo
   & > h1 {
     font-size: prem(29px);
@@ -15,24 +14,24 @@ header {
     letter-spacing: 5px;
     text-transform: uppercase;
     @include type-heading;
-    
+
     @media only screen and (min-width: $break-medium) {
       margin-top: 0;
       text-align: center;
     }
-    
+
     a, a:link, a:visited {
+      color: #fdf5e2;
+    }
+
+    a:hover, a:focus, a:active {
       color: $color-subtle;
     }
-    
-    a:hover, a:focus, a:active {
-      color: $color-brand;
-    }
   }
-  
+
   // <h2> subheading
   & > h2 {
-    color: $color-quote;
+    color: $color-orange;
     margin-top: 0;
     text-align: center;
     @include type-italic;
@@ -41,18 +40,15 @@ header {
     @media only screen and (min-width: $break-medium) {
       text-align: center;
     }
-    
+
     // “by Paddy O’Hanlon”
     span {
       display: block;
     }
-    
+
      a,  a:link {
       @include type-headlink;
       font-style: normal;
     }
   }
 }
-
-
-
