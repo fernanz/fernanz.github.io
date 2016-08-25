@@ -1,0 +1,36 @@
+footer .share {
+    box-sizing: border-box;
+    color: #fff;
+    padding: 9px 34px 11px;
+    border: 1px solid #313131;
+    transition: border-color .1s ease-in-out;
+    margin-right: 8px
+}
+footer .share:hover {
+    border-color: #fff
+}
+footer .share.-right {
+    margin-left: auto
+}
+@media (max-width: 640px) {
+    footer .share {
+        display: none
+    }
+}
+@media (max-width: 424px) {
+    footer .share {
+        display: none
+    }
+}
+@media (min-width: 425px) and (max-width: 1023px) {
+    footer .share {
+        padding: 5px 11px
+    }
+}
+footer .icon-facebook,
+footer .icon-github,
+footer .icon-twitter {
+    vertical-align: text-bottom;
+    margin-right: 4px;
+    fill: #eee;
+}

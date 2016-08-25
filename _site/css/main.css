@@ -426,9 +426,9 @@ body {
 h1 {
   font-size: 4.4375em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  line-height: 1.05634em;
+  line-height: 1.0563380282em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  margin-bottom: 0.35211em;
+  margin-bottom: 0.3521126761em;
   font-family: 'Libre Baskerville', georgia, serif;
   font-style: normal;
   font-weight: 700; }
@@ -436,7 +436,7 @@ h1 {
 h2 {
   font-size: 3em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  line-height: 1.27083em;
+  line-height: 1.2708333333em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   /* unwrap lists for values that have multiple list of values such as text-shadow */
@@ -460,10 +460,10 @@ h3 {
 h4 {
   font-size: 1.625em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  line-height: 1.53846em;
+  line-height: 1.5384615385em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  margin: 0.76923em 0em;
+  margin: 0.7692307692em 0em;
   font-family: 'IM Fell English', Libre Baskerville, georgia, serif;
   font-style: normal;
   font-weight: 600; }
@@ -489,7 +489,7 @@ ul li,
 ol li {
   font-size: 1.5em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  line-height: 1.66667em;
+  line-height: 1.6666666667em;
   font-family: 'Libre Baskerville', georgia, serif;
   font-style: normal;
   font-weight: 400; }
@@ -531,10 +531,10 @@ figure + p {
 blockquote {
   font-size: 0.875em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  line-height: 2.85714em;
+  line-height: 2.8571428571em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  margin: 1.42857em 2.85714em;
+  margin: 1.4285714286em 2.8571428571em;
   font-family: 'Libre Baskerville', georgia, serif;
   font-style: italic;
   font-weight: 300;
@@ -543,7 +543,7 @@ blockquote {
     blockquote {
       /* unwrap lists for values that have multiple list of values such as text-shadow */
       /* unwrap lists for values that have multiple list of values such as text-shadow */
-      margin: 2.85714em 5.71429em; } }
+      margin: 2.8571428571em 5.7142857143em; } }
 
 blockquote {
   border-left: 5px solid #eee;
@@ -553,9 +553,9 @@ blockquote {
 .lead {
   font-size: 2.0625em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  line-height: 1.51515em;
+  line-height: 1.5151515152em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  margin-bottom: 0.75758em;
+  margin-bottom: 0.7575757576em;
   text-indent: 0;
   font-family: 'IM Fell English', Libre Baskerville, georgia, serif;
   font-style: normal;
@@ -728,13 +728,13 @@ img[src*='http://www.gravatar.com'] {
       width: 100%; } }
 
 #footer {
-  background: url(../assets/papers.png);
+  background: url(../assets/dark_exa.png);
   color: #0E1519;
   margin-top: 0rem;
   padding: 2rem 0 1.25rem 0;
   position: relative; }
   #footer a, #footer a:link, #footer a:visited {
-    color: #484848; }
+    color: #eee; }
   #footer p {
     font-size: 0.875rem;
     line-height: 1.375rem;
