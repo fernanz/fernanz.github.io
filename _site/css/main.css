@@ -666,6 +666,13 @@ header {
     -moz-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out; }
 
+.head_logo_fer {
+  position: absolute;
+  width: 100%;
+  left: 2%;
+  top: 1%;
+  z-index: 2; }
+
 #aside {
   background: #fffff8;
   color: #484848;

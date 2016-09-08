@@ -926,7 +926,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 54306,
+		"initialSize": 148837,
 		"inputAbbreviatedPath": "\/_site\/assets\/u2-chair.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/u2-chair.png",
 		"outputPathIsOutsideProject": 0,
@@ -1068,15 +1068,6 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
-		},
-	"\/_site\/css\/share.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/css\/share.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/_site\/css\/typoo.css": {
 		"fileType": 16,
@@ -1294,8 +1285,8 @@
 		},
 	"\/_site\/README.MD": {
 		"criticStyle": 0,
-		"enableFootnotes": 1,
-		"enableLabels": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"fileType": 4096,
