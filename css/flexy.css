@@ -40,6 +40,9 @@
   .card {
     width: 100%;
   }
+  .gravatar {
+    width: 20%;
+  }
 }
 @media (min-width: 700px) {
   .card {
