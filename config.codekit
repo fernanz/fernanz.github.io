@@ -404,13 +404,13 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/abo.png": {
-		"fileType": 32768,
+	"\/_site\/assets\/agustin.jpeg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 31195,
-		"inputAbbreviatedPath": "\/_site\/assets\/abo.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/abo.png",
+		"initialSize": 428289,
+		"inputAbbreviatedPath": "\/_site\/assets\/agustin.jpeg",
+		"outputAbbreviatedPath": "\/_site\/assets\/agustin.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -433,6 +433,17 @@
 		"initialSize": 218026,
 		"inputAbbreviatedPath": "\/_site\/assets\/almanac.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/almanac.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/ambrosio.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 475256,
+		"inputAbbreviatedPath": "\/_site\/assets\/ambrosio.jpeg",
+		"outputAbbreviatedPath": "\/_site\/assets\/ambrosio.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -499,6 +510,72 @@
 		"initialSize": 332605,
 		"inputAbbreviatedPath": "\/_site\/assets\/doctores.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/doctores.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/doctores_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 291525,
+		"inputAbbreviatedPath": "\/_site\/assets\/doctores_1.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/doctores_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/doctores_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 303614,
+		"inputAbbreviatedPath": "\/_site\/assets\/doctores_2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/doctores_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/doctos_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 674116,
+		"inputAbbreviatedPath": "\/_site\/assets\/doctos_1.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/doctos_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/doctos_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 669492,
+		"inputAbbreviatedPath": "\/_site\/assets\/doctos_2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/doctos_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/doctos_3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 599096,
+		"inputAbbreviatedPath": "\/_site\/assets\/doctos_3.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/doctos_3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/doctos_4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 591146,
+		"inputAbbreviatedPath": "\/_site\/assets\/doctos_4.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/doctos_4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -602,6 +679,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/gregorio.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 375405,
+		"inputAbbreviatedPath": "\/_site\/assets\/gregorio.jpeg",
+		"outputAbbreviatedPath": "\/_site\/assets\/gregorio.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/HKeller.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -646,13 +734,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/learning.jpg": {
+	"\/_site\/assets\/jeronimo.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 78308,
-		"inputAbbreviatedPath": "\/_site\/assets\/learning.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/learning.jpg",
+		"initialSize": 548573,
+		"inputAbbreviatedPath": "\/_site\/assets\/jeronimo.jpeg",
+		"outputAbbreviatedPath": "\/_site\/assets\/jeronimo.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -862,17 +950,6 @@
 		"initialSize": 44724,
 		"inputAbbreviatedPath": "\/_site\/assets\/promt.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/promt.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/radio.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.25718e+06,
-		"inputAbbreviatedPath": "\/_site\/assets\/radio.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/radio.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1354,13 +1431,13 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/assets\/abo.png": {
-		"fileType": 32768,
+	"\/assets\/agustin.jpeg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 31195,
-		"inputAbbreviatedPath": "\/assets\/abo.png",
-		"outputAbbreviatedPath": "\/assets\/abo.png",
+		"initialSize": 428289,
+		"inputAbbreviatedPath": "\/assets\/agustin.jpeg",
+		"outputAbbreviatedPath": "\/assets\/agustin.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1383,6 +1460,17 @@
 		"initialSize": 218026,
 		"inputAbbreviatedPath": "\/assets\/almanac.png",
 		"outputAbbreviatedPath": "\/assets\/almanac.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/ambrosio.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 475256,
+		"inputAbbreviatedPath": "\/assets\/ambrosio.jpeg",
+		"outputAbbreviatedPath": "\/assets\/ambrosio.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1449,6 +1537,72 @@
 		"initialSize": 332605,
 		"inputAbbreviatedPath": "\/assets\/doctores.jpg",
 		"outputAbbreviatedPath": "\/assets\/doctores.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/doctores_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 291525,
+		"inputAbbreviatedPath": "\/assets\/doctores_1.jpg",
+		"outputAbbreviatedPath": "\/assets\/doctores_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/doctores_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 303614,
+		"inputAbbreviatedPath": "\/assets\/doctores_2.jpg",
+		"outputAbbreviatedPath": "\/assets\/doctores_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/doctos_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 674116,
+		"inputAbbreviatedPath": "\/assets\/doctos_1.jpg",
+		"outputAbbreviatedPath": "\/assets\/doctos_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/doctos_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 669492,
+		"inputAbbreviatedPath": "\/assets\/doctos_2.jpg",
+		"outputAbbreviatedPath": "\/assets\/doctos_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/doctos_3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 599096,
+		"inputAbbreviatedPath": "\/assets\/doctos_3.jpg",
+		"outputAbbreviatedPath": "\/assets\/doctos_3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/doctos_4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 591146,
+		"inputAbbreviatedPath": "\/assets\/doctos_4.jpg",
+		"outputAbbreviatedPath": "\/assets\/doctos_4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1552,6 +1706,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/gregorio.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 375405,
+		"inputAbbreviatedPath": "\/assets\/gregorio.jpeg",
+		"outputAbbreviatedPath": "\/assets\/gregorio.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/HKeller.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1596,13 +1761,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/learning.jpg": {
+	"\/assets\/jeronimo.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 78308,
-		"inputAbbreviatedPath": "\/assets\/learning.jpg",
-		"outputAbbreviatedPath": "\/assets\/learning.jpg",
+		"initialSize": 548573,
+		"inputAbbreviatedPath": "\/assets\/jeronimo.jpeg",
+		"outputAbbreviatedPath": "\/assets\/jeronimo.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
