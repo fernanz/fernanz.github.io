@@ -11,13 +11,13 @@ location: Guayaquil, desde mi balcón.
 
 Como mencioné en el artículo anterior ["Ayer y hoy"](https://fernanz.github.io/notas/2016/10/21/catedral.html) no sólo la imagen del Apóstol Santiago ha sido permanente en el frontispicio de la Iglesia Catedral, también los Evangelistas han tenido un espacio preponderante; primero como estatuas de cuerpo entero en la antigua catedral y ahora como representación simbólica en el tímpano de la portada principal de la nueva Catedral.
 
-Aunque es una presunción en la ausencia de datos confiables y de fotografías que nos permitan identificar con claridad los detalles de la fachada de la antigua Catedral, parecería que estaba decorada con las imágenes de los Evangelistas; por ejemplo, en las dos fotografías que incluyo a continuación se observan cuatro esculturas de bulto redondo, en la primera imagen (c.1870) las esculturas están adosadas a la parte superior de la fachada, en la siguiente imagen (c.1920), las esculturas han sido trasladadas sobre la balaustrada a los lados del frontón del edificio. Insisto, no existe información que confirme si se trata o no de los Evangelistas.
+Aunque es una presunción en la ausencia de datos confiables y de fotografías que nos permitan identificar con claridad los detalles de la fachada de la antigua Catedral, parecería que estaba decorada con las imágenes de los Evangelistas; por ejemplo, en las dos fotografías que incluyo a continuación se observan cuatro esculturas de bulto redondo, en la primera imagen (c.1870) las esculturas están adosadas al cuerpo superior de la fachada, en la siguiente imagen (c.1920), las esculturas han sido trasladadas sobre la balaustrada a los lados del frontón del edificio. Insisto, no existe información que confirme si se trata o no de los Evangelistas.
 
 <section class="fluido">
 				<div class="gallery">
 				<a href="/assets/cat_b.jpeg" title="" data-fluidbox class="col-1"><img src="/assets/cat_b.jpeg" alt="" title="" /></a>
 				<a href="/assets/cat_c.jpeg" title="" data-fluidbox class="col-1"><img src="/assets/cat_c.jpeg" alt="" title="" /></a>
-        <figcaption>Haz click en las imágenes para agrandarlas.<br/> <u>Arriba</u>: Iglesia Catedral de Guayaquil hacia 1870.<br/><u>Abajo</u>: Iglesia Catedral de Guayaquil hacia 1920. Ambas imágenes tomadas de la **Guía Histórica de Guayaquil** de Julio Estrada Ycaza (Ver fuentes).</figcaption>
+        <figcaption>Haz click en las imágenes para agrandarlas.<br/> <u>Arriba</u>: Iglesia Catedral de Guayaquil hacia 1870.<br/><u>Abajo</u>: Iglesia Catedral de Guayaquil hacia 1920. Ambas imágenes tomadas de la <strong>Guía Histórica de Guayaquil</strong> de Julio Estrada Ycaza (Ver fuentes).</figcaption>
 				</div>
 </section>
 
