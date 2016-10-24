@@ -29,7 +29,7 @@ El origen del Tetramorfos está en el Libro de Ezequiel y la visión que describ
 
 En el arte medieval se los representa rodeando al Pantocrátor (Jesús mayestático como juez en el fin de los tiempos) y también suelen aparecer como figuras humanas aladas con cabeza de animal. Con la llegada del Renacimiento predomina su interpretación como atributo de los Evangelistas y se prefiere representarlos acompañando a sus respectivas figuras humanas.
 
-Como dije líneas arriba, en la nueva Catedral de Guayaquil, el Tetramorfos se encuentra en la base del tímpano de la portada principal, están trabajadas en relieve y de izquierda a derecha son: el buey, el hombre alado, el águila y el león. Todos ellos con excepción del águila sostienen el libro que representa a los Evangelios.
+Como dije líneas arriba, en la nueva Catedral de Guayaquil, el Tetramorfos se encuentra en la base del tímpano de la portada principal, están trabajadas en relieve y de izquierda a derecha son: el buey, el hombre alado, el águila y el león. Todos ellos con excepción del águila sostienen el libro que representa a los Evangelios. El ágila tiene el libro bajo sus patas.
 
 <section class="fluido">
 				<div class="gallery">
